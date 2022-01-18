@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Roman
 #### I am 👨‍👩‍👧‍👦 Father, 👨‍💻 future programmer and a 👨‍🎓 perpetual learner
 
-I continuously on to developing my skills -> **Java, Javascript, HTML, CSS**
+I continuously on to developing my skills -> **Java, Javascript, HTML, CSS, Design Patterns, Git, RegEx**
 
 - 🔭 I’m currently working on my [website](https://www.Mr-R0m4n.de) 
 - 🌱 I’m also learning the basics of software engeneering -> currently: **SQL**

@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://mr-r0m4n.de/src/img/banner.png)
+<p align="center"> <img src='https://mr-r0m4n.de/src/img/mr-r0m4n.png' height="100"></p>
 
 ### Hi there 👋, my name is Roman
 #### I am 👨‍👩‍👧‍👦 Father, 👨‍💻 future programmer and a 👨‍🎓 perpetual learner

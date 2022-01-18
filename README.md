@@ -10,6 +10,6 @@
 - 📫 How to reach me: ...take the red pill
 
 
-I continuously on to developing my skills -> Java, Javascript, HTML, CSS
+I continuously on to developing my skills -> **Java, Javascript, HTML, CSS**
 
 

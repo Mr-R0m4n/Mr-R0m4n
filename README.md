@@ -6,8 +6,8 @@
 I continuously on to developing my skills -> **Java, Javascript, HTML, CSS**
 
 - 🔭 I’m currently working on my [website](https://www.Mr-R0m4n.de) 
-- 🌱 I’m also learning the basics of software engeneering 
-- 💬 You can ask me about every single detail of my life
+- 🌱 I’m also learning the basics of software engeneering -> currently: **SQL**
+- 💬 You can ask me about every single detail of my life ! ! !
 - 📫 If you want to reach me:  . . . take the red pill . . .
 - or just send me a message to: <roman.schumann@gmx.de>
 

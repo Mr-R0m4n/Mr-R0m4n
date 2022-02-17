@@ -10,8 +10,3 @@ I continuously on to developing my skills -> **Java, Javascript, HTML, CSS, Desi
 - 💬 You can ask me about every single detail of my life ! ! !
 - 📫 If you want to reach me:  . . . take the red pill . . .
 - or just send me a message to: <roman.schumann@gmx.de>
-
-
-
-
-![Profile views](https://gpvc.arturio.dev/mr-r0m4n)  

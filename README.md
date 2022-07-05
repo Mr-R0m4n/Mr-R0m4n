@@ -1,12 +1,12 @@
 [<p align="center"> <img src='https://mr-r0m4n.de/src/img/mr-r0m4n1.png'></p>](https://www.Mr-R0m4n.de)
 
 ### Hi there 👋, my name is Roman
-#### I am Father 👨‍👩‍👧‍👦, up coming programmer 👨‍💻 and a perpetual learner 👨‍🎓 
+#### I am Father 👨‍👩‍👧‍👦, programmer 👨‍💻 and a perpetual learner 👨‍🎓 
 
-I continuously on to developing my skills -> **Java, Javascript, HTML, CSS, Design Patterns, Git, RegEx**
+I continuously on to developing my skills -> **Java, Javascript, React, HTML, CSS, Design Patterns, Git, RegEx**
 
 - 🔭 I’m currently working on my [website](https://www.Mr-R0m4n.de) 
-- 🌱 I’m also learning the basics of front-end development -> currently: **React**
+- 🌱 I’m also learning the basics of front-end development -> currently: **Node.js**
 - 💬 You can ask me about every single detail of my life ! ! !
 - 📫 If you want to reach me:  . . . take the red pill . . .
 - or just send me a message to: <roman.schumann@gmx.de>

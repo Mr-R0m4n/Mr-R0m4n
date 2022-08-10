@@ -1,5 +1,3 @@
-[<p align="center"> <img src='https://mr-r0m4n.de/src/img/mr-r0m4n1.png'></p>](https://www.Mr-R0m4n.de)
-
 ### Hi there 👋, my name is Roman
 #### I am Father 👨‍👩‍👧‍👦, programmer 👨‍💻 and a perpetual learner 👨‍🎓 
 

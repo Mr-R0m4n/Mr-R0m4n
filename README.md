@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Roman
 #### I am Father 👨‍👩‍👧‍👦, programmer 👨‍💻 and a perpetual learner 👨‍🎓 
 
-I continuously on to developing my skills -> **Java, Javascript, React, HTML, CSS, Design Patterns, Git, RegEx**
+I continuously on to developing my skills -> **Java, Javascript, TypeScript, React, HTML, CSS, Design Patterns, Git, RegEx**
 
-- 🔭 I’m currently working on my [webserver](https://mr-r0m4n.de) 
-- 🌱 I’m also learning the basics of web development -> currently: **Node.js**
+- 🔭 I’m currently learning the basics of Cybersecurity -> currently on: **TryHackMe**
+- 🌱 I’m also working always on my [webserver], visit me on -> (https://mr-r0m4n.de) 
 - 💬 You can ask me about every single detail of my life ! ! !
 - 📫 If you want to reach me:  . . . take the red pill . . .
-- or just send me a message to: <roman.schumann@gmx.de>
+- or just send me a message to: <roman.schumann@outlook.de>

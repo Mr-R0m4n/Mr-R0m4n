@@ -7,4 +7,4 @@ I continuously on to developing my skills -> **Java, JavaScript, TypeScript, Rea
 - 🌱 I’m also working always on my [webserver]: Visit me on -> (https://mr-r0m4n.de) 
 - 💬 You can ask me about every single detail of my life ! ! !
 - 📫 If you want to reach me:  . . . take the red pill . . .
-- or just send me a message to: <roman.schumann@outlook.de>
+- or just send me a message to: <webmaster@mr-r0m4n.de>
